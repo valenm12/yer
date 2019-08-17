@@ -1,5 +1,0 @@
-Host platzi
-HostName 54.196.172.97
-Port 22
-User ubuntu
-IdentityFile ~/.ssh/platzi.pem
